@@ -1,3 +1,1 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on [Shopware platform](https://github.com/shopware/platform)
+🔭 I’m currently working on [Shopware platform](https://github.com/shopware/platform)
