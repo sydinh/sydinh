@@ -1,1 +1,1 @@
-🔭 I’m currently working on [Shopware platform](https://github.com/shopware/platform)
+[![sydinh's github stats](https://github-readme-stats.vercel.app/api?username=sydinh&show_icons=true&theme=radical&count_private=true)](https://github.com/sydinh/)
